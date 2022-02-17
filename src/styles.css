@@ -1,7 +1,4 @@
-@font-face {
-    font-family: 'Poppins';
-    src: url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
-}
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap");
 
 *{
     box-sizing: border-box;
@@ -9,7 +6,7 @@
     padding: 0;
 }
 body{
-    font-family: sans-serif;    
+    font-family: "Poppins", sans-serif;    
 }
 
 .container{
